@@ -106,7 +106,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 61.450%;" class="progress-item"></span><span style="background-color: #2b7489;width: 34.859%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.471%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.444%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.776%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 61.368%;" class="progress-item"></span><span style="background-color: #2b7489;width: 34.813%;" class="progress-item"></span><span style="background-color: #563d7c;width: 1.469%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.442%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.775%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.134%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -118,7 +118,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">61.45%</span>
+<span class="percent">61.37%</span>
 </li>
 
 
@@ -127,7 +127,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">34.86%</span>
+<span class="percent">34.81%</span>
 </li>
 
 
@@ -154,7 +154,16 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">0.78%</span>
+<span class="percent">0.77%</span>
+</li>
+
+
+<li style="animation-delay: 750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Shell</span>
+<span class="percent">0.13%</span>
 </li>
 
 
